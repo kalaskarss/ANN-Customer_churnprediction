@@ -97,3 +97,37 @@ The model is built using TensorFlow / Keras with the following architecture:
 
 ```bash
 git clone https://github.com/kalaskarss/ANN-Customer_churnprediction.git
+
+### Step 2: Navigate to Project Directory 
+cd ANN-Customer_churnprediction
+
+## Step 3: Install Required Libraries
+pip install -r requirements.txt
+
+## Step 4: Run the Application
+python app.py
+
+💼 Business Impact
+
+* This churn prediction model helps banks:
+* Identify high-risk customers
+* Improve customer retention strategies
+* Reduce revenue loss
+* Increase customer lifetime value
+Retaining existing customers is significantly more cost-effective than acquiring new ones.
+
+🛠️ Technologies Used
+Python
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Scikit-learn
+TensorFlow / Keras
+Jupyter Notebook
+
+📌 Conclusion
+
+This project demonstrates how Artificial Neural Networks can be applied to real-world banking problems to predict customer churn effectively.
+
+The model provides actionable insights that can help businesses improve customer retention and optimize operational strategies.
